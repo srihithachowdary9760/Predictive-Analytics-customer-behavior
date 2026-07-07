@@ -1,2 +1,2 @@
-# Resipiratory-Analytics-customer-behavior
+# Predictive-Analytics-customer-behavior
 Data Science internship project
